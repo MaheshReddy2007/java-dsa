@@ -1,0 +1,6 @@
+*.class
+.idea/
+*.iml
+hs_err_pid*.log
+course pdfs java and ds/
+SkillUp Java Programs/
